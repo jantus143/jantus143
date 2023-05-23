@@ -29,7 +29,7 @@
 
 ## License
 
-<a "https://github.com/jantus143" </a>
+https://github.com/jantus143
 <!-- Github README -->
 
 <p align="center"><a href="https://github.com/jantus">
